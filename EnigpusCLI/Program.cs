@@ -11,8 +11,8 @@ public class Program
 
     public static void Run()
     {
-        var bookRepository = new BookRepositoryImpl();
-        var inventoryService = new InventoryServiceImpl(bookRepository);
+        var bookRepository = new BookRepository();
+        var inventoryService = new InventoryService(bookRepository);
         
         var view = new View(inventoryService);
         

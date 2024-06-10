@@ -4,11 +4,11 @@ using Exception = System.Exception;
 
 namespace EnigpusCLI.Services.Impls;
 
-public class InventoryServiceImpl: IInventoryService
+public class InventoryService: IInventoryService
 {
     private readonly IBookRepository _bookRepository; 
 
-    public InventoryServiceImpl(IBookRepository bookRepository)
+    public InventoryService(IBookRepository bookRepository)
     {
         _bookRepository = bookRepository;
     }

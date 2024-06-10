@@ -2,7 +2,7 @@
 
 namespace EnigpusCLI.Repositories.Impls;
 
-public class BookRepositoryImpl: IBookRepository
+public class BookRepository: IBookRepository
 {
     private readonly List<Book> _books = new();
 
