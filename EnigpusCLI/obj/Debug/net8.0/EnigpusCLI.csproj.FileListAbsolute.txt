@@ -1,0 +1,14 @@
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\bin\Debug\net8.0\EnigpusCLI.exe
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\bin\Debug\net8.0\EnigpusCLI.deps.json
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\bin\Debug\net8.0\EnigpusCLI.runtimeconfig.json
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\bin\Debug\net8.0\EnigpusCLI.dll
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\bin\Debug\net8.0\EnigpusCLI.pdb
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\obj\Debug\net8.0\EnigpusCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\obj\Debug\net8.0\EnigpusCLI.AssemblyInfoInputs.cache
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\obj\Debug\net8.0\EnigpusCLI.AssemblyInfo.cs
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\obj\Debug\net8.0\EnigpusCLI.csproj.CoreCompileInputs.cache
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\obj\Debug\net8.0\EnigpusCLI.dll
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\obj\Debug\net8.0\refint\EnigpusCLI.dll
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\obj\Debug\net8.0\EnigpusCLI.pdb
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\obj\Debug\net8.0\EnigpusCLI.genruntimeconfig.cache
+C:\Yudha\REFRENSI\UPSKILLING\.NET\Challenge\EnigpusCLI\EnigpusCLI\obj\Debug\net8.0\ref\EnigpusCLI.dll
